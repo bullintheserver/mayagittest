@@ -1,6 +1,6 @@
-# mayagittest
+# linuxtest
 it's a test
 
 ## subheader
 
-it's a blast.
+it's a test.
